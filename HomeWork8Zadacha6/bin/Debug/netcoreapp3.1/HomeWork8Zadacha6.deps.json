@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HomeWork8Zadacha6/1.0.0": {
+        "runtime": {
+          "HomeWork8Zadacha6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork8Zadacha6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
