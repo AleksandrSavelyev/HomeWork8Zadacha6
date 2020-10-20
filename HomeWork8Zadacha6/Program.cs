@@ -21,6 +21,7 @@ namespace HomeWork8Zadacha6
             Console.WriteLine("умноженный на скаляр");
             mas.skalyar = 3;
             mas.ShowMas();
+            Console.ReadKey();
 
         }
         static int Num()
